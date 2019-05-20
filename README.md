@@ -1,4 +1,4 @@
-# RMACC-2018-ipyparallel
+# RMACC-2019-ipyparallel
 
 Tutorial about the Python ipyparallel package
 
